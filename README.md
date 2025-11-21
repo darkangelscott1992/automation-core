@@ -1,0 +1,2 @@
+# automation-core
+Python script
